@@ -1,4 +1,4 @@
-# TFA 4 — Who's Allowed In? Sessions and Authentication
+# MANGAT, KATRINA TFA 4 — Who's Allowed In? Sessions and Authentication
 
 A CodeIgniter 4-based POS web application with session-based authentication and protected customer and user management pages.
 
